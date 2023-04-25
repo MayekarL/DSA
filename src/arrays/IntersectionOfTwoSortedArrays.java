@@ -32,6 +32,9 @@ public class IntersectionOfTwoSortedArrays {
         return result;
     }
 
+    /*
+    Below approach is known as Pointers
+     */
     public static ArrayList<Integer> findArrayIntersectionOpti(ArrayList<Integer> arr1, int n, ArrayList<Integer> arr2, int m)
     {
         // Write Your Code Here.
